@@ -1,0 +1,7 @@
+name 'mg-testing-platform'
+maintainer 'tmkdam'
+maintainer_email 'tmkdam@gmail.com'
+license 'all_rights'
+description 'Installs/Configures mg-testing-platform'
+long_description 'Installs/Configures mg-testing-platform'
+version '0.1.0'
