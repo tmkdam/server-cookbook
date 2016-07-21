@@ -7,6 +7,7 @@ DEPENDENCIES
     metadata: true
   redisio (~> 2.4.2)
   resque (~> 3.0.4)
+  runit (~> 1.8.0)
 
 GRAPH
   apt (3.0.0)
